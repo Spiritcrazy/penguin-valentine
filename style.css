@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+    background: #FFDAB8;
+    font-size: medium;
+}
+
+
+#penguin-img{
+    width: 200px;
+}
+
+
+.btn {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+
+#yes-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+#no-btn {
+    background-color: #FF5252;
+    color: white;
+}
